@@ -1,10 +1,343 @@
 #EXTM3U
-#EXTINF: -1 tvg-id="BOCA DE FUMO.br@SD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aKr6jSFBrL1VFZIJ541boREu0a4.jpg" group-title="FILMES",BOCA DE FUMO
-https://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/124.mp4
+
 #EXTINF: -1 tvg-id="BOCA DE FUMO.br@SD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aKr6jSFBrL1VFZIJ541boREu0a4.jpg" group-title="FILMES",BOCA DE FUMO
 http://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790398829.e24ec8855dc1b8e59e2b353d5244febe41cbde61f782a9032d46e88116de3960/u/LinhaZed099183u/Acao/A%20Casa%20da%20Armadilha.mp4
-#EXTINF: -1 tvg-id="BOCA DE FUMO.br@SD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/aKr6jSFBrL1VFZIJ541boREu0a4.jpg" group-title="FILMES",BOCA DE FUMO
-https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790398829.e24ec8855dc1b8e59e2b353d5244febe41cbde61f782a9032d46e88116de3960/u/LinhaZed099183u/Acao/A%20Casa%20da%20Armadilha.mp4
 
 #EXTINF:-1 tvg-id="A CARTA DE NATAL.br@SD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kU9HRH9WLoFc6GQNyYsNzkaVns2.jpg" group-title="FILMES",A CARTA DE NATAL
-http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/130.mp4
+https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790400205.cf428bf2b4ccef16847549a592641d03daf1bcf74d866a87f854319865b2b24f/u/LinhaZed099183u/Natalino/A%20Carta%20de%20Natal.mp4
+
+#EXTINF:-1 tvg-id="A Casa dos Segredos Enterrados.br@SD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/uTSvLQrZb02MayBilIg5U8ltRE3.jpg" group-title="FILMES",A Casa dos Segredos Enterrados
+https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790400472.68447273a4f780524dcda6a9a337248ca75b8e5c66f43a2d239215c30af80ccf/u/LinhaZed099183u/Terror/A%20Casa%20dos%20Segredos%20Enterrados.mp4
+
+#EXTINF:-1 tvg-id="10DANCE.br@SD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg" group-title="FILMES",10DANCE
+https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790400694.0dcd1f033747af015437b76db21a99af3203445773e01b6e11c9643727937f03/u/LinhaZed099183u/Romance/10DANCE.mp4
+
+#EXTINF:-1 tvg-id="31 Minutos Natal Escaldante.br@SD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lt0IpOhrvhPOzQkQOvg2xK25bZ1.jpg" group-title="FILMES",31 Minutos Natal Escaldante
+https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790400838.d51b9a897475e7fee0b800e01d950834103a88a9d34c204fae84038ff7ea897f/u/LinhaZed099183u/Natalino/31%20Minutos%20Natal%20Escaldante.mp4
+
+#EXTINF:-1 tvg-id="A Casa do Engano.br@SD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qdEa108Z7gSEVnAtSKmCfFZBZPm.jpg" group-title="FILMES",A Casa do Engano
+https://icy-snow-d15f.jcjo2auuylgb.workers.dev/t/1790400978.64473048925480ab44ff8a7a92f1eddd36bd2c1674636ae542a41a4340f2923f/u/LinhaZed099183u/Suspense/A%20Casa%20do%20Engano.mp4
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
+
+#EXTINF:-1 tvg-id="00.br@SD" tvg-logo="00" group-title="FILMES",00
